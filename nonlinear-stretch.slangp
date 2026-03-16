@@ -1,0 +1,4 @@
+shaders = 1
+shader0 = nonlinear-stretch.slang
+scale_type_x0 = viewport
+scale_type_y0 = viewport

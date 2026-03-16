@@ -1,4 +1,4 @@
-# Nonlinear Stretch Ful-Screen Shader
+# Nonlinear Stretch Full-Screen Shader
 
 This shader applies a **nonlinear horizontal stretch** to video and emulated content.  
 It’s designed to make non-widescreen formats (4:3, 8:7, 10:9, etc.) feel more natural on widescreen displays (16:9, 16:10, 19.5:9, etc.) without the harsh uniform distortion of simple linear scaling.

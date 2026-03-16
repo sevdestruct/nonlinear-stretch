@@ -65,6 +65,33 @@ This shader offers a middle ground: it **fills the screen** while keeping the ce
 
 ---
 
+## Samples
+
+### RAD RACER (NES/FC):
+**Non-Linear Stretch:** 
+_(with Y-Overscan Clipping saved in [per game] shader settings):_
+<img width="1728" height="1117" alt="Image" src="https://github.com/user-attachments/assets/691f1c94-a47c-4404-8b88-1891a41e9e2a" />
+
+Regular Scaling _[Scaling Aspect Ratio:  Core-Provided] (No Stretch):_
+<img width="1728" height="1117" alt="Image" src="https://github.com/user-attachments/assets/8fb7b35c-3ca1-4fd9-997f-246f0efa7405" />
+
+Linear Stretch _(Scaling Aspect Ratio: Full)_
+<img width="1728" height="1117" alt="Image" src="https://github.com/user-attachments/assets/38ea56c3-f8f4-4aae-98de-1824299ba77d" />
+
+
+### CHRONO TRIGGER (SNES/SFC):
+**Non-Linear Stretch:** 
+<img width="1728" height="1117" alt="Image" src="https://github.com/user-attachments/assets/7aa73781-3ed2-413a-b67c-b4a18b894c4c" />
+
+Regular Scaling _[ScalingAspect Ratio: Core-Provided] (No Stretch):_
+<img width="1728" height="1117" alt="Image" src="https://github.com/user-attachments/assets/0f485eda-4e07-4ccd-8468-3557db9b8dd1" />
+
+Linear Stretch _(Scaling Aspect Ratio: Full)_
+<img width="1728" height="1117" alt="Image" src="https://github.com/user-attachments/assets/9b001ba7-75dd-40ae-b63a-99b4ddb43739" />
+
+
+---
+
 ## Changelog
 - **v1.0.3** 
   - Added Debug Overlay Grid option visualize the live warp being applied to the video output.
